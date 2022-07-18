@@ -1,0 +1,51 @@
+Car,Class,Body,Layout,Length,Width,Height,Weight,Type,Engine,Transmission,Horsepower,Zero-Sixty,Topspeed,Price,Rating
+Bugatti Bolide,Track Only,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4455,1999,996,1240,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1825,2.1,310,"4,386,000",71
+Bugatti Chiron Super Sport 300+,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4793,2040,1210,1978,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1578,2.4,304,"4,979,000",73
+SSC Tuatara,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4633,2065,1021,1247,Supercar,Twin Turbo 5.9-litre V8,7 Speed Semi Auto,1750,2.5,295,"14,818,000",72
+Czinger 21C,Hypercar,"2 Door, 1+1 Sea,t Coupe","Mid Engine, 4 Wheel Drive",4293,1875,1020,1240,Supercar,Hybrid Twin Turbo 2.9-litre V8,7 Speed Semi Auto,1233,1.9,281,"1,897,000",75
+Hennessey Venom F5,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4666,1961,1130,1360,Supercar,Twin Turbo 6.6-litre V8,"7 Speed Semi Auto, 6 Speed Manual",1792,2.5,275,"1,897,000",69
+Koenigsegg Agera RS,Track Focused,"2 Door, 2 Seat, Targa","Mid Engine, Rear Drive",4293,2050,1120,1394,Supercar,Twin Turbo 5.0-litre V8,7 Speed Dual Clutch,1341,2.8,278,"3,557,000",74
+Bugatti Chiron Super Sport,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4794,2038,1212,1978,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1578,2.3,273,"3,260,000",74
+Koenigsegg Jesko,Track Focused,"2 Door, 2 Seat, Targa","Mid Engine, Rear Drive",4610,2029,1209,1320,Supercar,Twin Turbo 5.0-litre V8,9 Speed Multi Clutch,1600,2.5,275,"2,727,000",76
+Koenigsegg One:1,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4500,2050,1150,1360,Supercar,Twin Turbo 5.0-litre V8,7 Speed Dual Clutch,1341,2.7,273,"5,335,000",73
+9FF GT9 Vmax,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4719,2045,1100,1340,Supercar,Twin Turbo 4.2-litre 6cyl,6 Speed Semi Auto,1381,3,272,"4,861,000",74
+Hennessey Venom GT,Hypercar,"2 Door, 2 Seat, Coupe",Mid Engine,4666,1961,1135,1244,Supercar,7-litre V8,6 Speed Manual,1244,2.7,270,"1,304,000",64
+Bugatti Veyron Supersport,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4463,1999,1191,1842,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1183,2.4,268,"2,371,000",71
+Koenigsegg Agera R,Hypercar,"2 Door, 2 Seat, Targa","Mid Engine, Rear Drive",4293,1996,1020,1435,Supercar,Twin Turbo 5.0-litre V8,8 Speed Dual Clutch,1115,2.8,267,"2,134,000",72
+Bugatti Chiron,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4544,2037,47.7,1995,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1479,2.3,261,"2,964,000",73
+Bugatti Chiron Sport,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4544,2037,1204,1977,Supercar,Quad Turbo 8.0-litre W16,8 Speed Dual Clutch,1479,2.3,261,"3,201,000",73
+Bugatti La Voiture Noire,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4544,2038,1212,1950,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1479,2.3,261,"16,952,000",73
+Bugatti Veyron Vitesse,Hypercar,"2 Door, 2 Seat, Targa","Mid Engine, 4 Wheel Drive",4463,1999,1191,1842,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1183,2.4,258,"2,964,000",71
+Mansory Vivere,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4463,1999,1191,1842,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1183,2.4,258,"3,083,000",71
+Rimac Nevera,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4750,1986,1209,1950,Supercar,Electric Quad Motor,Twin 2 Speed,1888,1.8,258,"2,371,000",74
+9FF GT9-R,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4733,1860,1180,1326,Supercar,Twin Turbo 4.0-litre 6 cyl,6 Speed Semi Auto,1120,2.8,257,771000,75
+SSC Ultimate Aero TT,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4475,2101,1092,1247,Supercar,Twin Turbo 6.3-litre V8,6 Speed Manual,1183,2.8,256,356000,65
+Hennessey Venom 1000,Hypercar,"2 Door, 2 Seat, Coupe","Front Engine, Rear Drive",4488,1961,1135,1565,Supercar,Twin Turbo 8.0-litre V10 ,6 Speed Manual,1000,2.9,255,185000,66
+Koenigsegg Regera,Hyper GT,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4559,2050,1110,1590,Supercar,Hybrid Twin Turbo 5.0-litre V8,Direct Drive,1479,2.7,255,3557000,75
+Bugatti Veyron,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, 4 Wheel Drive",4463,1999,1204,1888,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1001,2.5,254,2016000,71
+Bugatti Veyron Grandsport,Hypercar,"2 Door, 2 Seat, Targa","Mid Engine, 4 Wheel Drive",4463,1999,1204,1888,Supercar,Quad Turbo 8.0-litre W16,7 Speed Dual Clutch,1001,2.5,254,1779000,71
+Dauer 962 LM,Hypercar,"2 Door, 2 Seat, Coupe","Mid Engine, Rear Drive",4600,1984,1049,1130,Supercar,Twin Turbo 3.0-litre 6 cyl,5 Speed Semi Auto,730,2.6,251,652000,72
+Tesla Roadster 2.0,Hypercar,"2 Door, 2+2 Seat, Convertible","Mid Engine, 4 Wheel Drive",3945,1872,1125,1305,Supercar,Electric Tri Motor,Single speed BorgWarner fixed gear,1314,1.9,251,190000,74
+Bentley Continental GT,Hypercar,"2 Door, 2+2 Seat, Coupe","Front Engine, 4 Wheel Drive",4808,1918,1394,2320,Supercar,6.0 L W12,8 Speed Dual Clutch Automatic,650,3.9,208,202500,84
+Bentley Continental GT Speed,Hypercar,"2 Door, 2+2 Seat, Coupe","Front Engine, 4 Wheel Drive",4808,1918,1394,2320,Supercar,6.0 L W12,8 Speed Dual  Cutch Automatic,650,3.8,208,300000,81
+Aston Martin DBX,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",5039,1998,1680,2245,Super SUV,4-litre V8,9 Speed 9G Tronic Automatic,542,4.5,181,175000,93
+Range Rover Sport SVR,All Terrain,"4 Door, 5 Seat, Regular","Front Engine, 4 Wheel Drive",4879,2073,1803,2377,Super SUV,Supercharged 5.0-litre V8,8 Speed Automatic,575,4.3,176,141600,96
+Maserati Grecale Trofeo,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",4859,2164,1659,2027,Super SUV,Twin-turbocharged V6,8 Speed Automatic,523,3.8,177,90000,90
+BMW X5 M Competition,All Terrain,"4 Door, 5 Seat, Coupe","Front Engine, 4 Wheel Drive",4222,1745,1745,2285,Super SUV,Twin-turbocharged 4.4-litre V8,8 Speed Automatic,616,3.8,180,106095,70
+BMW X6 M Competition,All Terrain,"4 Door, 5 Seat, Coupe","Front Engine, 4 Wheel Drive",4941,2019,1693,2270,Super SUV,Twin-turbocharged 4.4-litre V8,8 Speed Automatic,616,3.7,180,187500,72
+Audi RS Q8,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",5012,2190,1751,2490,Super SUV,Twin-turbocharged 4.0-litre V8 petrol mild-hybrid,8 Speed ZF Automatic,592,3.8,189,121095,77
+Ford Mustang Mach-E GT,City/Street,"4 Door, 5 Seat, Crossover",4 Wheel Drive,4743,1881,1613,2273,Super SUV,Dual motors,Single Speed Automatic,480,3.7,124,67995,75
+Tesla Model Y Performance,City/Street,"4 Door, 5 Seat, Crossover",4 Wheel Drive,4751,1921,1624,2634,Super SUV,Dual motors at the front and rear axles,Single Speed Automatic,456,3.5,155,67990,62
+Jeep Grand Cherokee Trackhawk ,All Terrain,"4 Door, 5 Seat, Regular","Front Engine, 4 Wheel Drive",4822,1943,1724,2426,Super SUV,Supercharged 6.2-litre HEMI V8,8 Speed Automatic,707,3.4,190,87400,73
+Porsche Cayenne Turbo GT,Track Focused,"4 Door, 5 Seat, Coupe","Front Engine, 4 Wheel Drive",4942,1995,1636,2220,Super SUV,4.0-litre V8 petrol,8 Speed Automatic,631,3.3,186,182150,66
+Aston Martin DBX707,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",5039,1998,1680,2245,Super SUV,AMG Twin Turbo 4-litre V8,9 Speed 'wet clutch' Automatic,697,3.3,193,236000,92
+Tesla Model X,City/Street,"4 Door, 5 Seat, Crossover",4 Wheel Drive,5036,1999,1684,2572,Super SUV,Electric,Single Speed transaxle,1020,2.5,163,121440,78
+Range Rover SVAutobiography Dynamic,All Terrain,"4 Door, 5 Seat, Regular","Front Engine, 4 Wheel Drive",5000,2073,1869,2457,"Super SUV, Luxury SUV",Supercharged 5.0-liter V8,8 Speed Shiftable Automatic,557,5.1,155,178500,97
+BMW X7 M50i,All Terrain,"4 Door, 7 Seat, Regular","Front Engine, 4 Wheel Drive",5151,2000,1805,2568,"Super SUV, Luxury SUV",Twin-turbocharged 4.4-litre  V8,8 Speed Automatic,523,4.5,155,99600,74
+Dodge Durango SRT,All Terrain,"4 Door, 7 Seat, Regular","Front Engine, 4 Wheel Drive",5082,2172,1801,2410,Super SUV,Hemi 6.4-liter V8,8 Speed Automatic,475,4.4,160,62995,50
+Jaguar F-Pace SVR,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",4747,2071,1664,2058,"Super SUV, Luxury SUV",Supercharged 5.0-litre V8,8 Speed Automatic,550,4.1,178,80600,98
+Mercedes-AMG G63,All Terrain,"4 Door, 5 Seat, Box","Front Engine, 4 Wheel Drive",4606,2187,1969,2650,"Super SUV, Luxury SUV",Twin-turbocharged 4.0-litre V8,9 speed Automatic,577,3.9,130,156450,99
+Bentley Bentayga Speed,All Terrain,"4 Door, 5 Seat, Regular","Front Engine, 4 Wheel Drive",5144,2010,1728,2508,"Super SUV, Luxury SUV",Twin-turbo 6.0-liter W12,8 Speed Automatic,626,3.8,190,240400,71
+Maserati Levante Trofeo,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",5003,1968,1679,2700,Super SUV,3.8-liter V8,8 Speed Automatic,590,3.7,189,149990,66
+Alfa Romeo Stelvio Quadrifoglio,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",4720,1955,1681,1660,Super SUV,Ferrari-derived twin-turbo 2.9-liter V6,8 Speed Automatic,505,3.6,176,80500,63
+Lamborghini Urus,All Terrain,"4 Door, 5 Seat, Crossover","Front Engine, 4 Wheel Drive",5112,2181,1638,2197,"Super SUV, Luxury SUV",Twin-turbo 4.0-litre V8,8 Speed Automatic,650,3.6,190,238000,99
