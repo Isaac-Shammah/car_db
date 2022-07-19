@@ -1,0 +1,24 @@
+1. Join query that returns all cars that are coupes
+SELECT carname FROM designs
+JOIN joint ON joint.join_id = designs.designs_id
+JOIN cars ON cars.cars_id = joint.join_id
+WHERE designs.design LIKE "%Coupe%";
+
+2. Join query that returns all cars that are SUVs
+SELECT carname FROM types
+JOIN joint ON joint.join_id = types.types_id
+JOIN cars ON cars.cars_id = joint.join_id
+WHERE types.cartype LIKE "%SUV%";
+
+3. Query(Count) that returns number of cars
+SELECT COUNT(carname) FROM cars;
+
+4. Query that returns all cars with 2 doors
+SELECT carname FROM cars WHERE cars_id IN
+(SELECT join_id FROM joint WHERE join_id IN
+(SELECT designs_id FROM designs WHERE design LIKE "%2 Door%"));
+
+5. Query that returns all cars with an 8 speed gearbox
+SELECT carname FROM cars WHERE cars_id IN
+(SELECT join_id FROM joint WHERE join_id IN
+(SELECT types_id FROM types WHERE transmission LIKE "%8 Speed%"));
