@@ -1,4 +1,0 @@
-1.Application of COUNT
-
-Returning number of cars
-SELECT COUNT(carname) FROM car;
