@@ -1,0 +1,4 @@
+CREATE TABLE cars (cars_id INTEGER, carname TEXT, price INTEGER, rating INTEGER, PRIMARY KEY(cars_id));
+CREATE TABLE joint (join_id INTEGER, car_id INTEGER, PRIMARY KEY(join_id), FOREIGN KEY(car_id) REFERENCES cars(cars_id));      
+CREATE TABLE types (types_id INTEGER, cartype TEXT, carclass TEXT, layout TEXT, engine TEXT, transmission TEXT, horsepower INTEGER, zerotosixty INTEGER, topspeed INTEGER, PRIMARY KEY(types_id), FOREIGN KEY(types_id) REFERENCES joint(join_id));
+CREATE TABLE designs (designs_id INTEGER, design TEXT, length INTEGER, width INTEGER, height INTEGER, weight INTEGER, PRIMARY KEY(designs_id), FOREIGN KEY(designs_id) REFERENCES joint(join_id));
