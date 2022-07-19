@@ -1,0 +1,25 @@
+This database stores information about some of the fastest cars in the world as of 2022 i.e 
+supercars/sports cars and SUVs. The database is built from a csv file: cardb.csv containing 
+the following fields;
+Car: name of car
+Class: classifies cars acconding to what terrain/kind of roads they are built to handle
+Body: general design and shape
+Layout: the powertrain structure
+Length: in mm
+Width: in mm
+Height: in mm
+Weight: in kg
+Type: defines supercars and SUVs
+Engine: type and volume
+Transmission: gear system
+Horsepower: pull force in hp
+Zero-Sixty: time taken from 0mph to 60mph
+Topspeed: in mph
+Price: in USD
+Rating: out of 100
+
+This database contains 4 tables(cars, joint, types, and designs) 1 of which(joint) is a join table.
+cars has fields:cars_id(primary key), carname, price, rating
+joint has fields:join_id(primary key), car_id
+types has fields:types_id(primary key), cartype, carclass, layout, engine, transmission, horsepower,zerotosixty, topspeed
+designs has fields:designs_id(primary key), design, length, width, height, weight
